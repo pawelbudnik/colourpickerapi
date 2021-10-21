@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 
-const apiUri = "http://localhost:8080/api/v1/colourpicker/";
+const apiUri = "https://de90-2a04-ee41-81-4183-641f-c16c-5a71-8166.ngrok.io/api/v1/colourpicker/";
 
 class Colours extends React.Component {
   render() {
